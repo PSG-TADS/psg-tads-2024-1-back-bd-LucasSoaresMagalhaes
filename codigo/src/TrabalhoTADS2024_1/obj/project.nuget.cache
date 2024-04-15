@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Wim6X1bQx9VidSGI8og7U3yLuVvWwiVzTqvgjAmCmyKX+eDVlLDnY03QNeukwOMsS1zZ/o1ZrwgQcXl8rN0noQ==",
+  "dgSpecHash": "qrHQdmOa1Js5LD7e9R2nluohDOLke3/LdI8sG7AyAt2AURZkD+6k8R1xoSj4xead6ysIlK4nkVjMTwShL3r8BQ==",
   "success": true,
-  "projectFilePath": "D:\\Programas\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj",
+  "projectFilePath": "C:\\Users\\lsm06\\Dropbox\\Programas\\TrabalhoTADS\\psg-tads-2024-1-back-bd-LucasSoaresMagalhaes\\codigo\\src\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lsm06\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lsm06\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.12\\microsoft.aspnetcore.openapi.7.0.12.nupkg.sha512",

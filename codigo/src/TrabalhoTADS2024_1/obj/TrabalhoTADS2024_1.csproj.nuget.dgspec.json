@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Programas\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj": {}
+    "C:\\Users\\lsm06\\Dropbox\\Programas\\TrabalhoTADS\\psg-tads-2024-1-back-bd-LucasSoaresMagalhaes\\codigo\\src\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj": {}
   },
   "projects": {
-    "D:\\Programas\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj": {
+    "C:\\Users\\lsm06\\Dropbox\\Programas\\TrabalhoTADS\\psg-tads-2024-1-back-bd-LucasSoaresMagalhaes\\codigo\\src\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Programas\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj",
+        "projectUniqueName": "C:\\Users\\lsm06\\Dropbox\\Programas\\TrabalhoTADS\\psg-tads-2024-1-back-bd-LucasSoaresMagalhaes\\codigo\\src\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj",
         "projectName": "TrabalhoTADS2024_1",
-        "projectPath": "D:\\Programas\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj",
+        "projectPath": "C:\\Users\\lsm06\\Dropbox\\Programas\\TrabalhoTADS\\psg-tads-2024-1-back-bd-LucasSoaresMagalhaes\\codigo\\src\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1.csproj",
         "packagesPath": "C:\\Users\\lsm06\\.nuget\\packages\\",
-        "outputPath": "D:\\Programas\\TrabalhoTADS2024_1\\TrabalhoTADS2024_1\\obj\\",
+        "outputPath": "C:\\Users\\lsm06\\Dropbox\\Programas\\TrabalhoTADS\\psg-tads-2024-1-back-bd-LucasSoaresMagalhaes\\codigo\\src\\TrabalhoTADS2024_1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lsm06\\AppData\\Roaming\\NuGet\\NuGet.Config",
