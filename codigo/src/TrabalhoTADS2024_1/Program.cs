@@ -1,4 +1,9 @@
 
+using Microsoft.AspNetCore.Components.Server.ProtectedBrowserStorage;
+using Microsoft.EntityFrameworkCore;
+using System.Security.Cryptography.X509Certificates;
+using TrabalhoTADS2024_1.Models;
+
 namespace TrabalhoTADS2024_1
 {
     public class Program
@@ -14,7 +19,7 @@ namespace TrabalhoTADS2024_1
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
-            var app = builder.Build();
+        var app = builder.Build();
 
             // Configure the HTTP request pipeline.
             if (app.Environment.IsDevelopment())
